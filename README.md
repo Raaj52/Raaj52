@@ -11,8 +11,8 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Raaj52)](https://badges.pufler.dev)
 
-[![Raaj52's github stats](https://github-readme-stats.vercel.app/api?username=Raaj52&count_private=true&show_icons=true&theme=dracula)](https://github.com/Raaj52/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raaj52&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+[![Raaj52's github stats](https://github-readme-stats.vercel.app/api?username=Raaj52&count_private=true&show_icons=true&theme=dracula)](https://github.com/Raaj52/github-readme-stats)</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DerpFest-Devices&repo=device_xiaomi_raphael&theme=dracula)](https://github.com/DerpFest-Devices/device_xiaomi_raphael) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZenX-Devices&repo=device_realme_RMX1971&theme=dracula)](https://github.com/ZenX-Devices/device_realme_RMX1971)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raaj52&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
