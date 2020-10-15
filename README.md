@@ -1,7 +1,7 @@
 <h2 align="center">Hello 👋, I'm Raaj52</h2>
 <h3>About me</h3>
 
-- 🏠 I am 35 and from Bangalore, India
+- 🏠 I am from Bangalore, India
 - 🏢 I am a Mechanical Engineer with 13 years of working experience in IT 
 - 🌱 I am currently learning **tensorflow**
 - 🤝 I am looking for help with **AI/ML**
@@ -12,7 +12,5 @@
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/Raaj52)](https://badges.pufler.dev)
 
 [![Raaj52's github stats](https://github-readme-stats.vercel.app/api?username=Raaj52&count_private=true&show_icons=true&theme=dracula)](https://github.com/Raaj52/github-readme-stats)</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raaj52&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
